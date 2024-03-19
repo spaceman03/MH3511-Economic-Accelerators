@@ -5,10 +5,10 @@ In a world where economic stability is often fragile, understanding the past is 
 In order to explore further, we need to compare MDCs and LDCs (Q1) and the ratio of economic activities in MDCs and LDCs (Q2) to see the difference between them.
 
 By zooming into ASEAN, we need to research on:
-Why is Singapore considered the most developed country in SEA (Q3 & Q5)
-What is the difference between SG and other ASEAN countries (Q4 & Q6)
-Which indicator is the most prevalent in improving GDP in SG? (Q7)
-How is this particular factor affected by other indicators? (Q8)
+- Why is Singapore considered the most developed country in SEA (Q3 & Q5)
+- What is the difference between SG and other ASEAN countries (Q4 & Q6)
+- Which indicator is the most prevalent in improving GDP in SG? (Q7)
+- How is this particular factor affected by other indicators? (Q8)
 
 By formulating these broad questions, we can answer the research question by dwelling deeper to the specialised questions below.
 
@@ -16,11 +16,11 @@ Our project uses a dataset consisting of various economic variables from the yea
 
 Based on this dataset, we will explore the different variables in the dataset and answer the following questions: 
 
-How does the GDP per capita fare between the Least Developed Countries (LDCs) and Non-Least Developed Countries (Non-LDCs)?
-What is the ratio of economic activities that MDCs invest in compared to LDCs? 
-Is there a significant difference in the GDP per capita between Singapore and Southeast Asia (SEA) countries? 
-Is there a significant difference in terms of exports and imports of goods and services in SEA countries? 
-How does Singapore’s per capita GNI change across the year?
-Do SEA countries allocate resources in terms of General Government Final Consumption Expenditure? 
-Which ISIC indicator is most important in affecting the GDP of Singapore?
-How does the above ISIC indicator get affected by other ISIC factors?
+1. How does the GDP per capita fare between the Least Developed Countries (LDCs) and Non-Least Developed Countries (Non-LDCs)?
+2. What is the ratio of economic activities that MDCs invest in compared to LDCs? 
+3. Is there a significant difference in the GDP per capita between Singapore and Southeast Asia (SEA) countries? 
+4. Is there a significant difference in terms of exports and imports of goods and services in SEA countries? 
+5. How does Singapore’s per capita GNI change across the year?
+6. Do SEA countries allocate resources in terms of General Government Final Consumption Expenditure? 
+7. Which ISIC indicator is most important in affecting the GDP of Singapore?
+8. How does the above ISIC indicator get affected by other ISIC factors?
