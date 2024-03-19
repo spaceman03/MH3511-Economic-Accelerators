@@ -5,8 +5,8 @@ In a world where economic stability is often fragile, understanding the past is 
 In order to explore further, we need to compare MDCs and LDCs (Q1) and the ratio of economic activities in MDCs and LDCs (Q2) to see the difference between them.
 
 By zooming into ASEAN, we need to research on:
-- Why is Singapore considered the most developed country in SEA (Q3 & Q5)
-- What is the difference between SG and other ASEAN countries (Q4 & Q6)
+- Why is Singapore considered the most developed country in SEA? (Q3 & Q5)
+- What is the difference between SG and other ASEAN countries? (Q4 & Q6)
 - Which indicator is the most prevalent in improving GDP in SG? (Q7)
 - How is this particular factor affected by other indicators? (Q8)
 
