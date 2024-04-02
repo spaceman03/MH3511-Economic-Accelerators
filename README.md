@@ -1,4 +1,4 @@
-# MH3511-Economical-Analysis
+# MH3511-Economic-Accelerators
 ## Introduction 📝
 In a world where economic stability is often fragile, understanding the past is essential for preparing for the future. The destinies of nations and their people are often at the mercy of financial crises. From the oil crisis of the 1970s to the global financial meltdown of 2008, we have seen European countries experiencing a 4.5% decline in GDP during the first quarter of 2009 and Iceland’s recession in 2009 as its banking sector collapsed, triggering a severe economic recession. More often than not, many other industries will often be affected or contribute to financial downturns due to the ripple effect. This begs the research question: “Which sector should least developed countries (LDCs) in South-East Asia (SEA) invest in to quickly improve economic performance?”
 
